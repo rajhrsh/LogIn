@@ -1,0 +1,51 @@
+ <div class="footer resources link div">
+                    <div class="footer pages list">
+                        <a href="#"> <h2><b>Pages</b></h2> </a>
+                    </div>
+                    <div class="footer dashboard page link">
+                        <a href="#"> Dashboard </a>
+                    </div>
+                    <div class="footer login page link">
+                        <a href="#"> Login </a>
+                    </div>
+                    <div class="footer signup page link">
+                        <a href="#"> Sign up </a>
+                    </div>
+                </div>
+            
+                <div class="footer other pages link div">
+                    <div class="footer more link">
+                        <a href="#"><h2><b>Pages</b></h2></a>
+                    </div>
+                    <div class="footer blog link">
+                        <a href="#"> Blog</a>
+                    </div>
+                    <div class="footer contact link">
+                        <a href="#">Contact </a>
+                    </div>
+                    <div class="footer privacy link">
+                        <a href="#">Privacy </a>
+                    </div>
+                    <div class="footer terms link">
+                        <a href="#">Terms </a>
+                    </div>
+                </div>
+
+                <div class="footer more pages link div">
+                    <div class="footer other link">
+                        <h2><b>More </h2></p>
+                    </div>
+                    <div class="footer loream link">
+                        <a href="#"> lorem</a>
+                    </div>
+                    <div class="footer ipsun link">
+                        <a href="#">ipsum. </a>
+                    </div>
+                    <div class="footer dollar link">
+                        <a href="#">dolor. </a>
+                    </div>
+                    <div class="footer zero link">
+                        <a href="#">LoremO </a>
+                    </div>
+                </div>
+            </div>

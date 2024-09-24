@@ -1,0 +1,77 @@
+/* CSS added by Harsh */
+
+html, body {
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    /* flex-direction: column; 
+    display: flex; */
+    
+    
+    line-height: 1.2;
+    min-height: .5vh;
+    margin: 10;}
+
+#login {
+    background-color: #1C1C1C;
+    border-radius: 38px;
+    box-shadow: 0 804px 508px #4A90E2(117, 56, 9, .2);
+    padding: 10px 20px;
+    transition: transform 0.2s;
+    width: 500px;
+    /* height: 550px; */
+    /* height: 1000 px; */
+    margin: 100px auto;
+    /* padding: 30 px; */
+    text-align: center;
+}
+
+
+
+#login h1 {
+    color: #4A90E2;
+}
+
+#login label {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: #555;
+    font-weight: bold;
+}
+
+
+#login input {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 50px;
+}
+
+button {
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #429aad;
+    color: #1C1C1C;
+    width: 20%;
+    font-size: 16px;
+    
+
+    
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
